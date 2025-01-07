@@ -1,0 +1,73 @@
+body {
+    margin-left: 30px;
+}
+header {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 20px;
+    
+   
+} 
+.logo {
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 33px;
+    margin-right: 30px;
+    
+
+}
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 36px;
+    margin-right: 900px;
+   
+    gap: 30px;
+    font-size: 22px;
+    opacity: 1;
+     
+}
+
+a {
+    text-decoration: none;
+}
+/* header დასრულდა */
+.number {
+    width: 46px;
+    height: 55px;
+    background-color: blue;
+    margin-top: 106px;
+    
+}
+.number p {
+    font-size: 48px;
+    color: white;
+    padding: auto;;
+}
+.mai {
+    font-size: 22px;
+    color: #3D58A6;
+}
+.section_1 {
+    display: flex;
+    justify-content: space-between;
+}
+.section_1 div image {
+    top: 251px;
+    left: 30px;
+    width: 270px;
+    height: 210px;
+}
+.section_1 div p {
+    top: 254px;
+    left: 339px;
+    width: 929px;
+    height: 360px;
+    margin-right: 130px;
+}
+
+    
