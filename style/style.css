@@ -6,6 +6,7 @@ header {
     justify-content: space-between; 
     align-items: center; 
     padding: 10px 20px;
+    margin-top: 10px;
     
    
 } 
@@ -19,16 +20,18 @@ header {
     
 
 }
-.nav {
+nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
     margin-top: 36px;
-    margin-right: 900px;
-   
+    margin-right: 950px;
     gap: 30px;
     font-size: 22px;
-    opacity: 1;
+    color: #3D58A6;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    opacity: 100%;
+   
      
 }
 
@@ -40,34 +43,81 @@ a {
     width: 46px;
     height: 55px;
     background-color: blue;
-    margin-top: 106px;
+    margin-top: 70px;
+    margin-bottom: 10px;
     
 }
 .number p {
     font-size: 48px;
     color: white;
-    padding: auto;;
+    padding: auto;
+    
 }
 .mai {
     font-size: 22px;
     color: #3D58A6;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+h2 {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: #000000;
+    opacity: 100%;
 }
 .section_1 {
     display: flex;
     justify-content: space-between;
 }
 .section_1 div image {
-    top: 251px;
+    margin-top:  251px;
     left: 30px;
     width: 270px;
     height: 210px;
 }
 .section_1 div p {
-    top: 254px;
+    /* top: 254px; */
     left: 339px;
     width: 929px;
     height: 360px;
-    margin-right: 130px;
+    margin-right: 170px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
+/* აქ დამთავრდა 1 სექცია */
 
-    
+.section_2 {
+    display: flex;
+    justify-content: space-between;
+}
+.section_2 div image {
+    margin-top:  251px;
+    left: 30px;
+    width: 1500px;
+    height: 100px;
+}
+.section_2 div p {
+    /* top: 254px; */
+    left: 339px;
+    width: 929px;
+    height: 360px;
+    margin-right: 170px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+
+}  
+.icons {
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.line {
+    width: 2px;
+    height: 20px;
+    background-color:#3D58A6;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.fa-brands {
+    color: #3D58A6;
+    font-size: 24px;
+}
