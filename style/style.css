@@ -31,9 +31,13 @@ nav {
     color: #3D58A6;
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
     opacity: 100%;
+}
+.nav_li {
+    display: inline-block;
+    margin-left: 20px;
+}
    
      
-}
 
 a {
     text-decoration: none;
@@ -187,3 +191,17 @@ h4 {
     gap: 0.9px;
  
  }  
+
+ /* contact */
+ .div_contact {
+    width: 1366px;
+    height: 570px;
+    background-color: #E6E6E6;
+    display: flex;
+    padding-top: 49px;
+    padding-left: 100px;
+    margin: 30px;
+ }
+ .div_map {
+    margin-left: 200px;
+ }
