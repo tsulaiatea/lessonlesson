@@ -199,16 +199,17 @@ h4 {
 
  /* contact */
  .div_contact {
+    max-width: 1200px;
     width: 1366px;
     height: 570px;
     background-color: #E6E6E6;
     display: flex;
     padding-top: 49px;
-    padding-left: 100px;
+    padding-left: 60px;
     margin: 30px;
  }
  .div_map {
-    margin-left: 200px;
+    margin-left: 50px;
  }
  span {
     font-family: "BPG Ingiri Arial", sans-serif;
