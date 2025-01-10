@@ -27,14 +27,17 @@ nav {
     margin-top: 36px;
     margin-right: 950px;
     gap: 30px;
-    font-size: 22px;
+    
     color: #3D58A6;
-    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    
     opacity: 100%;
 }
 .nav_li {
     display: inline-block;
     margin-left: 20px;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 22px;
+    
 }
    
      
@@ -181,9 +184,11 @@ h4 {
 
 .div_text1 {
     position: absolute;
-    top: 60px;
+    top: 20px;
     left: 270px;
     right: 20px;
+    font-family: "Comfortaa", serif;
+    font-size: 20px;
 
 }
  .news_section {
@@ -204,4 +209,8 @@ h4 {
  }
  .div_map {
     margin-left: 200px;
+ }
+ span {
+    font-family: "BPG Ingiri Arial", sans-serif;
+    font-size: 16px;
  }
