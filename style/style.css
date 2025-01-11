@@ -7,9 +7,10 @@ header {
     align-items: center; 
     padding: 10px 20px;
     margin-top: 10px;
+    } 
+
     
-   
-} 
+    
 .logo {
     width: 40px;
     height: 30px;
@@ -180,6 +181,7 @@ h4 {
     position: absolute;
     top: 15px;
     left: 21px;
+    color: #3D58A6;
 }
 
 .div_text1 {
@@ -189,6 +191,7 @@ h4 {
     right: 20px;
     font-family: "Comfortaa", serif;
     font-size: 20px;
+    color: #3D58A6;
 
 }
  .news_section {
